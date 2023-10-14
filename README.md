@@ -7,7 +7,6 @@
 - [Project Steps](#project-goals)
 - [Dataset](#dataset)
 - [Models](#models)
-- [Evaluation](#evaluation)
 
 
 ## Overview
