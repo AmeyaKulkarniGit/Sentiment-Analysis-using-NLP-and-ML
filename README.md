@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Steps](#project-goals)
+- [Project Steps](#project-steps)
 - [Dataset](#dataset)
 - [Models](#models)
 
@@ -50,5 +50,4 @@ Link to the dataset - https://www.kaggle.com/datasets/jp797498e/twitter-entity-s
 
 ## Models
 
-1. **Random Forest**:
-   - Random Forest is a versatile ensemble learning technique in machine learning. It builds multiple decision trees and aggregates their predictions to improve accuracy and mitigate overfitting, making it widely used for      classification and regression tasks. Its strength lies in combining diverse models for robust and reliable predictions.
+1. **Random Forest**: Random Forest is a versatile ensemble learning technique in machine learning. It builds multiple decision trees and aggregates their predictions to improve accuracy and mitigate overfitting, making    it widely used for classification and regression tasks. Its strength lies in combining diverse models for robust and reliable predictions.
