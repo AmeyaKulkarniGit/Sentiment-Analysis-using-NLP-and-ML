@@ -11,7 +11,7 @@
 
 ## Overview
 
-1. Sentiment Analysis, a subset of Natural Language Processing (NLP), is a powerful technique that aims to determine the sentiment or emotional tone expressed in a piece of text. It involves the use of advanced machine learning models and linguistic analysis to classify the sentiment as positive, negative, or neutral. In my project, I leverage Sentiment Analysis using a Random Forest Classifier, a machine learning model known for its efficiency and accuracy. **The final accuracy for my model was 96.8%**
+1. Sentiment Analysis, a subset of Natural Language Processing (NLP), is a powerful technique that aims to determine the sentiment or emotional tone expressed in a piece of text. It involves the use of advanced machine learning models and linguistic analysis to classify the sentiment as positive, negative, or neutral. In my project, I leverage Sentiment Analysis using a Random Forest Classifier, a machine learning model known for its efficiency and accuracy. **The final accuracy for my Machine Learning model was 96.8%**
 
 2. My project focuses on sentiment analysis of textual data, a crucial task with diverse real-world applications. By accurately identifying the sentiment of social media posts, product reviews, or customer feedback, businesses can gain valuable insights into public opinion. For instance, analyzing customer reviews can help companies understand customer satisfaction, identify areas for improvement, and tailor their marketing strategies accordingly.
 
